@@ -1,0 +1,6 @@
+#wrap{width:100%;
+    max-width:2560px;
+    min-width: 500px;
+    margin:0 auto;/*overflow-x:hidden;*/
+    }  
+#sec1 img{width:100%;}
